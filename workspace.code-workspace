@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\test\\test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"interrupt_id.h": "c"
+		}
+	}
+}
